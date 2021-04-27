@@ -16,7 +16,7 @@ def costePorKilometro(consumo, precioCombustible):
 #---------------------Inputs de los datos-------------------------------
 litros = float(input("Колко литра си раредил?: "))
 kilomertosTrascutidos = int(input("Колко километра си изминал: "))
-precioCombustible = float(input("Каква е цента нагоривото за литър: "))
+precioCombustible = float(input("Каква е цента на горивото за литър: "))
 elegirCaclculo = int(input("Натисни едно за да изчислиш разхода за 100 Км, натисни 2 за да изчислиш стойността на километър: "))
 
 
